@@ -7,6 +7,10 @@ repo/dépôt : un projet sur github, par exemple https://github.com/emmausConnec
 utilisateur/profil github/un github : un compte github (login/mdp + email).<br />
 <br /><br />
 
+### * 0 Le but
+Emmaüs connecte est une association qui est très étendue géographiquement, les valeureux bénévoles sont séparés la distance. Mais internet et le téléphone sont arrivés et les bénévoles commencent a être plus au contact. Plusieurs bénévoles ont commencé à développer des outils pour faciliter leur bénévolat dans emmaüs connect mais ces outils sont généralement tenus/développés uniquement par ses créateurs originaux. Mais github et l'open source sont arrivés et plusieurs bénévoles peuvent à présent améliorer les outils de emmaüs connect même s'ils ne sont pas ses créateurs originaux. C'est dans ce but que le github emmausConnect est créer, réduire la quantité d'effort à fournir individuellement pour augmenter la qualité de nos outils.<br />
+
+
 ### 1 Quels outils sont nécessaires pour participer à un github emmausConnect ?
 * maîtriser grossièrement le fonctionnement de git, github.
 * avoir [**un**](https://git-scm.com/downloads/guis) outil des suivants pour pouvoir interagir avec github (par exemple sourcetree).
