@@ -8,7 +8,7 @@ utilisateur/profil github/un github : un compte github (login/mdp + email).<br /
 <br /><br />
 
 ### * 0 Le but
-Emmaüs connecte est une association qui est très étendue géographiquement, les valeureux bénévoles sont séparés la distance. Mais internet et le téléphone sont arrivés et les bénévoles commencent a être plus au contact. Plusieurs bénévoles ont commencé à développer des outils pour faciliter leur bénévolat dans emmaüs connect mais ces outils sont généralement tenus/développés uniquement par ses créateurs originaux. Mais github et l'open source sont arrivés et plusieurs bénévoles peuvent à présent améliorer les outils de emmaüs connect même s'ils ne sont pas ses créateurs originaux. C'est dans ce but que le github emmausConnect est créer, réduire la quantité d'effort à fournir individuellement pour augmenter la qualité de nos outils.<br />
+[Emmaüs-connect](https://emmaus-connect.org/) est une association qui est très étendue géographiquement, les valeureux bénévoles sont séparés la distance. Mais internet et le téléphone sont arrivés et les bénévoles commencent a être plus au contact. Plusieurs bénévoles ont commencé à développer des outils pour faciliter leur bénévolat dans [Emmaüs-connect](https://emmaus-connect.org/) mais ces outils sont généralement tenus/développés uniquement par ses créateurs originaux. Mais github et l'open source sont arrivés et plusieurs bénévoles peuvent à présent améliorer les outils de [Emmaüs-connect](https://emmaus-connect.org/) même s'ils ne sont pas ses créateurs originaux. C'est dans ce but que le github emmausConnect est créée, réduire la quantité d'effort à fournir individuellement pour augmenter la qualité de nos outils.<br />
 
 
 ### 1 Quels outils sont nécessaires pour participer à un github emmausConnect ?
@@ -23,8 +23,8 @@ Emmaüs connecte est une association qui est très étendue géographiquement, l
 Disons que vous voulez créer un projet superProjet.<br />
 Créer d'abord superProjet dans un dépôt soit en local ou mieux sur votre propre profil github.<br />
 Une fois que votre projet a une première version fonctionnelle (cad qui marche et qui peut être utilisée par les bénévoles/bénéficiaires de l'association).<br />
-Vous devez demander à un membre de emmaüs de vous parrainer pour être intégré au github emmausConnect.<br />
-Une fois que vous êtes un membre de confiance, emmausConnect créer votre superProjet à cette adresse https://github.com/emmausConnect/superProjet (remplacer superProjet dans l'URL).<br />
+Vous devez demander à un membre de [Emmaüs-connect](https://emmaus-connect.org/) de vous parrainer pour être intégré au github emmausConnect.<br />
+Une fois que vous êtes un membre de confiance, emmausConnect créée votre superProjet à cette adresse https://github.com/emmausConnect/superProjet (remplacer superProjet dans l'URL).<br />
 
 ### 4 Comment rejoindre un projet existant sur emmausConnect ?
 Il faut demander la permission à un utilisateur qui a les droits sur le dépôt du projet.<br />
@@ -49,9 +49,9 @@ Si jack deviens diabolique il ne peut casser que le projet inspector les autres 
 Par défaut les dépots sur github sont créée en privé ce qui veut dire que ce que vous mettez dedans reste entre la plateforme et vous. Quand le projet (si vous voulez le rendre publique) est prêt, on peut regarder et changer sa visibilité sur publique.
 
 ### * 8 Propriété sur le code ?
-A priori la propriété sur le code peut être gérée par dépôt avec un simple fichier LICENSE.md à sa racine et ce n'est pas forcément gênant que la propriété sur le code aille à un utilisateur en particulier ou pourquoi pas donner le donner à l'association emmaüs si l'utilisateur le souhaite.
+A priori la propriété sur le code peut être gérée par dépôt avec un simple fichier LICENSE.md à sa racine et ce n'est pas forcément gênant que la propriété sur le code aille à un utilisateur en particulier ou pourquoi pas donner le donner à l'association [Emmaüs-connect](https://emmaus-connect.org/) si l'utilisateur le souhaite.
 
-### * 9 Politique de emmaüs sur le github emmausConnect
-Tous les projets de ce github ont pour vocation de contribuer, d'améliorer le service que emmaüs connecte apporte aux personnes bénéficiaires.<br />
-L'association emmaüs (en particulier la partie connecte) est au courant de ce github et à bien donné son feu vert.<br />
-Peut être laisser les utilisateurs responsable d'eux même dans chaque dépôt (sinon ça oblige emmaüs connect de suivre chaque projet).<br />
+### * 9 Politique de emmaüs-connect sur le github emmausConnect
+Tous les projets de ce github ont pour vocation de contribuer, d'améliorer le service que [Emmaüs-connect](https://emmaus-connect.org/) apporte aux personnes bénéficiaires.<br />
+L'association [Emmaüs-connect](https://emmaus-connect.org/) est au courant de ce github et à bien donné son feu vert.<br />
+Peut être laisser les utilisateurs responsable d'eux même dans chaque dépôt (sinon ça oblige [Emmaüs-connect](https://emmaus-connect.org/) de suivre chaque projet).<br />
