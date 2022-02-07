@@ -48,8 +48,8 @@ Si jack deviens diabolique il ne peut casser que le projet inspector les autres 
 ### 7 Confidentialité sur les dépôts ?
 Par défaut les dépots sur github sont créée en privé ce qui veut dire que ce que vous mettez dedans reste entre la plateforme et vous. Quand le projet (si vous voulez le rendre publique) est prêt, on peut regarder et changer sa visibilité sur publique.
 
-### * 8 Propriété sur le code ?
-A priori la propriété sur le code peut être gérée par dépôt avec un simple fichier LICENSE.md à sa racine et ce n'est pas forcément gênant que la propriété sur le code aille à un utilisateur en particulier ou pourquoi pas donner le donner à l'association [Emmaüs-connect](https://emmaus-connect.org/) si l'utilisateur le souhaite.
+### 8 Propriété sur le code ?
+La propriété sur le code dans les dépôts de emmausConnect reviens à l'association [Emmaüs-connect](https://emmaus-connect.org/) pour bien que ce soit clair pour les personnes qui consultent le dépôt, il est conseillé d'ajouter un fichier LICENSE.md à la racine du dépôt comme par exemple [ici](/LICENSE-MIT.md). Pour les bénévoles qui veulent garder la propriété sur le code la meilleure solution est de créer le projet sous leur propre compte github.
 
 ### * 9 Politique de emmaüs-connect sur le github emmausConnect
 Tous les projets de ce github ont pour vocation de contribuer, d'améliorer le service que [Emmaüs-connect](https://emmaus-connect.org/) apporte aux personnes bénéficiaires.<br />
